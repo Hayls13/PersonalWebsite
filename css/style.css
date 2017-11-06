@@ -198,6 +198,12 @@ font-family: 'Muli', sans-serif;
     font-size: 14px;
   }
 }
+
+.profile-thumb{
+    width: 40%;
+}
+
+
 #fh5co-header .display-tc .profile-thumb,
 .fh5co-cover .display-tc .profile-thumb {
   background-size: cover !important;
@@ -213,6 +219,7 @@ font-family: 'Muli', sans-serif;
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+
 #fh5co-header .display-tc .fh5co-social-icons li a,
 .fh5co-cover .display-tc .fh5co-social-icons li a {
   color: #fff;
