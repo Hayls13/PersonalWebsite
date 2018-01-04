@@ -1008,6 +1008,13 @@ font-family: 'Muli', sans-serif;
   position: absolute;
 }
 
+@media screen and (max-width: 768px){
+  #fh5co-footer {
+    bottom: 0px;
+    position: relative;
+  }
+} 
+
 .contact-info {
   margin-bottom: 4em;
   padding: 0;
